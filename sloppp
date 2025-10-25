@@ -1,1 +1,3 @@
-$ touch filel
+$mkdir gittest
+$ cd gittest
+$ git init
